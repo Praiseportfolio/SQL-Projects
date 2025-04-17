@@ -1,0 +1,7 @@
+In an e-payment company, every withdrawal and payment made using physical devices represents transactions that
+include information like transaction ID, Device ID, Agent name, Bank name, amount, transaction status, and card type.
+The only way to make meaning out of the numerous information generated regularly is by organising the information in a
+way it can be easily retrieved, analysed and interpreted. All these data can be  managed by using a database to keep 
+information in tables and identifying them with their key entities. Key entities can be Devices, Banks, and Agents. 
+The database used in this project is a financial transactions database used to record daily transactions, and it is done by
+Bunny-E-Payment
